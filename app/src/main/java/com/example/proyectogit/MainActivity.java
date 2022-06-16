@@ -9,6 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+    //Ejercicio de intents
     Button btnLogin;
     EditText etNombre, etCorreo;
 
